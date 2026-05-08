@@ -1,9 +1,3 @@
-void func(void);
-/*
- * Licensed under the Apache License, Version 2.0 (the "License");
- * Author: wngfra
- */
-
 #pragma once
 
 #include <stdint.h>
