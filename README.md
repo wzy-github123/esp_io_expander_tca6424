@@ -9,6 +9,7 @@ Implementation of the TCA6424(C) io expander chip with esp_io_expander component
 | TCA6424(C)       | I2C                     | esp_io_expander_tca6424 | [datasheet](https://www.ti.com/lit/ds/symlink/tca6424.pdf?ts=1777541664478&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FTCA6424) |
 
 ## Add to project
+
  git clone https://github.com/wzy-github123/esp_io_expander_tca6424.git
 ## Example use
 
